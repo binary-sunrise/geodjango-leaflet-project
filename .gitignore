@@ -1,0 +1,21 @@
+# Django project files and directories
+
+.env
+db.sqlite3
+venv/
+logs/
+media/
+static/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+.tox/
+.cache/
+.pytest_cache/
+coverage/
+htmlcov/
+node_modules/
